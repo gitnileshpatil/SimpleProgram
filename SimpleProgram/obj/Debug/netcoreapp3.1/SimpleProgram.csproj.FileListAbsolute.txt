@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.exe
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.deps.json
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.runtimeconfig.json
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.dll
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\bin\Debug\netcoreapp3.1\SimpleProgram.pdb
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.dll
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.pdb
+C:\Users\lenovo\source\repos\SimpleProgram\SimpleProgram\obj\Debug\netcoreapp3.1\SimpleProgram.genruntimeconfig.cache
